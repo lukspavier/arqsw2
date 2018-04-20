@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="816117862_service_desk_Lucas">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="java-output-path" value="/816117862_service_desk_Lucas/build/classes"/>
+        <property name="context-root" value="816117862_service_desk_Lucas"/>
+    </wb-module>
+</project-modules>
